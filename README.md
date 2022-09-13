@@ -5,8 +5,12 @@ the bAse idea of this app is that a manager will be able to add replcae and edit
 
 
 
-https://user-images.githubusercontent.com/106626454/188036923-b3f155b4-bf6c-4ab8-87ce-b30bb78b570d.mp4
 
 
 
+
+
+
+
+https://user-images.githubusercontent.com/106626454/189781014-e5545a69-07fc-45fd-8811-c0a85ed79033.mp4
 
