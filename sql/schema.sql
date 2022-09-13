@@ -1,8 +1,8 @@
-DROP DATABASE IF EXISTS employeesDB;
+DROP DATABASE IF EXISTS workDB;
 
-CREATE DATABASE employeesDB;
+CREATE DATABASE workDB;
 
-USE employeesDB;
+USE workDB;
 
 CREATE TABLE department (
   id INT NOT NULL AUTO_INCREMENT,
@@ -26,4 +26,3 @@ CREATE TABLE employee (
   manager_id INT NULL,
   PRIMARY KEY (id)
 );
-
